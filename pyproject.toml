@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "browser"
+version = "0.1.0"
+description = ""
+authors = ["BrunoRagner <brunooragnner@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+PyQt5 = "^5.15.6"
+PyQtWebEngine = "^5.15.5"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
