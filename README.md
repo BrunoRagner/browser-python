@@ -1,2 +1,2 @@
-# browser-python
+# browser.py
 browser feito com PyQt5
